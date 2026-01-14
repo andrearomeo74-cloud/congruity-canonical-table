@@ -8,7 +8,7 @@ It is a structural law describing **admissible transformations** in complex syst
 The Canonical Table formalizes Congruity as a minimal, finite lattice of proportional states and transitions.
 It does not predict outcomes.
 It defines **which transformations are structurally admissible**.
-
+This canonical table generates multiple structural projections, including the Congruity Periodic Table, which organizes admissibility regimes across domains.
 All subsequent applications — in biology, medicine, artificial intelligence, energy, economics, physics, or other domains —
 are **projections of this table**, not modifications of it.
 

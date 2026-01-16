@@ -46,3 +46,17 @@ This repository is final by design.
 - Canonical grammar: https://github.com/andrearomeo74-cloud/congruity-canonical-table
 - Periodic projections: https://github.com/andrearomeo74-cloud/congruity-periodic-table
 - Admissibility checker (toy model): https://github.com/andrearomeo74-cloud/congruity-admissibility-checker
+
+## Canonical References
+
+This repository defines the closed canonical layer of Congruity.
+All other repositories operate as projections or implementations of this grammar.
+
+- Canonical grammar (this repository):  
+  https://github.com/andrearomeo74-cloud/congruity-canonical-table
+
+- Canonical states & transitions (admissibility checker – toy model):  
+  https://github.com/andrearomeo74-cloud/congruity-admissibility-checker
+
+- Periodic / domain projections:  
+  https://github.com/andrearomeo74-cloud/congruity-periodic-table

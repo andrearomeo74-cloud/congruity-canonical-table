@@ -1,5 +1,7 @@
 # The Canonical Table of Congruity
 
+![Congruity Canonical Layers](assets/congruity_canonical_layers.png)
+
 This repository defines the **canonical structural grammar of Congruity**.
 
 Congruity is not a model, an algorithm, or an application framework.  

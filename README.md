@@ -47,6 +47,15 @@ This repository is final by design.
 - Periodic projections: https://github.com/andrearomeo74-cloud/congruity-periodic-table
 - Admissibility checker (toy model): https://github.com/andrearomeo74-cloud/congruity-admissibility-checker
 
+## Boundary Atlases
+
+Explorations of admissibility boundaries, regime breakdowns, and cross-domain failure patterns are documented separately as interpretive atlases.
+
+These materials do not define admissibility. They illustrate how admissibility violations manifest across domains, under the canonical grammar.
+
+- Systemic Admissibility Atlas:
+  https://github.com/andrearomeo74-cloud/systemic-admissibility-atlas
+
 ## Canonical References
 
 This repository defines the closed canonical layer of Congruity.

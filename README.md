@@ -70,6 +70,23 @@ All other repositories operate as projections or implementations of this grammar
 - Periodic / domain projections:  
   https://github.com/andrearomeo74-cloud/congruity-periodic-table
 
+## Canonical Status
+
+This repository defines the closed canonical layer of the Congruity framework.
+
+The canonical grammar specifies:
+- admissible states
+- admissible transitions
+- admissibility constraints
+
+It does not:
+- predict outcomes
+- optimize systems
+- provide empirical validation
+- replace domain-specific theories
+
+All empirical, applied, or diagnostic work must occur strictly outside this repository, as projections or interpretations of this grammar.
+
 ## Relation to Existing Frameworks (Non-Exhaustive)
 
 Congruity is orthogonal to optimization, prediction, and control frameworks.

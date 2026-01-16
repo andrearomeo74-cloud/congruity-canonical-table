@@ -2,6 +2,8 @@
 
 ![Congruity Canonical Layers](assets/congruity_canonical_layers.png)
 
+*Canonical layers of Congruity: admissibility grammar → projections → domain implementations.*
+
 This repository defines the **canonical structural grammar of Congruity**.
 
 Congruity is not a model, an algorithm, or an application framework.  

@@ -22,3 +22,9 @@ Result: **Non-Admissible**
 ## Notes
 These examples do not evaluate performance, outcomes, or desirability.
 They illustrate structural admissibility only.
+
+## Formal Canonical Example
+
+For a purely structural (non-narrative) admissibility example written in canonical form, see:
+
+- `canonical_minimal_example.md`

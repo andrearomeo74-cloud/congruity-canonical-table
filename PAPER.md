@@ -83,4 +83,10 @@ This canonical grammar is orthogonal to:
 - predictive frameworks
 - domain-specific theories
 It defines admissibility conditions under which those models remain valid.
+8. Informal Correspondences (Non-binding)
+The admissibility grammar captures structural constraints that appear, in fragmented form, across several domains:
+- In AI, scaling laws and alignment failures can be read as violations of admissibility under increasing structural load.
+- In biology, aging and disease correspond to progressive loss of admissible regime transitions.
+- In physics, singularities and breakdowns mark transitions beyond admissible structural configurations.
+These correspondences are illustrative only. No domain theory is derived or assumed.
 End of document

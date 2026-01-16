@@ -60,3 +60,17 @@ All other repositories operate as projections or implementations of this grammar
 
 - Periodic / domain projections:  
   https://github.com/andrearomeo74-cloud/congruity-periodic-table
+
+## Relation to Existing Frameworks (Non-Exhaustive)
+
+Congruity is orthogonal to optimization, prediction, and control frameworks.
+It defines *structural admissibility conditions* under which such frameworks may operate.
+
+Relevant bodies of literature include:
+
+- Complex systems constraints and phase transitions (e.g. Haken, Prigogine)
+- Scaling laws and regime validity in artificial intelligence (e.g. Kaplan et al.)
+- Structural constraints in biological systems and aging (e.g. López-Otín et al.)
+
+These frameworks address performance, dynamics, or outcomes.
+Congruity operates strictly at the level of admissible structure.

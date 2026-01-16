@@ -1,5 +1,7 @@
 # The Canonical Table of Congruity
 
+This repository is intentionally conservative, minimal, and closed by design.
+
 ![Congruity Canonical Layers](assets/congruity_canonical_layers.png)
 
 *Canonical layers of Congruity: admissibility grammar → projections → domain implementations.*

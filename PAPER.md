@@ -89,4 +89,6 @@ The admissibility grammar captures structural constraints that appear, in fragme
 - In biology, aging and disease correspond to progressive loss of admissible regime transitions.
 - In physics, singularities and breakdowns mark transitions beyond admissible structural configurations.
 These correspondences are illustrative only. No domain theory is derived or assumed.
+9. This document does not claim empirical validation and should be read as a structural and interpretive framework, not as a scientific model or predictive theory.
+
 End of document

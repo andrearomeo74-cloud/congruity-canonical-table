@@ -40,3 +40,9 @@ All future work must occur strictly as **projections** of this grammar,
 not as modifications.
 
 This repository is final by design.
+
+## Related Repositories
+
+- Canonical grammar: https://github.com/andrearomeo74-cloud/congruity-canonical-table
+- Periodic projections: https://github.com/andrearomeo74-cloud/congruity-periodic-table
+- Admissibility checker (toy model): https://github.com/andrearomeo74-cloud/congruity-admissibility-checker

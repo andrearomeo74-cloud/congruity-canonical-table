@@ -28,3 +28,15 @@ Extensions may occur only as projections, not modifications.
 
 - `canonical_table.md` — Formal definition of the Canonical Table of Congruity
 - `docs/` — Explanatory and contextual documents
+
+## Canonical Freeze
+
+This repository defines the **closed canonical layer** of Congruity.
+
+No changes, extensions, optimizations, or domain-specific adaptations
+are permitted at this level.
+
+All future work must occur strictly as **projections** of this grammar,
+not as modifications.
+
+This repository is final by design.

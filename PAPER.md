@@ -77,4 +77,10 @@ Conclusion
 Congruity, at the canonical level, is not a theory of action, value, or intelligence.
 It is a grammar of admissibility.
 By separating admissibility from evaluation, Congruity provides a stable foundation upon which diverse systems can be built, analyzed, or constrained—without entangling structural coherence with goals, incentives, or outcomes.
+7.0 Relation to Existing Frameworks (Non-exhaustive)
+This canonical grammar is orthogonal to:
+- optimization-based models
+- predictive frameworks
+- domain-specific theories
+It defines admissibility conditions under which those models remain valid.
 End of document
